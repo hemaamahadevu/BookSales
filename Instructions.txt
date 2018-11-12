@@ -1,0 +1,7 @@
+Assignment folder has the source code.
+
+I have created an executable jar file. We can run with the following inputs
+
+java -jar Booksales.jar --books=<path_for_book_list> --sales=<path_for_sales_list> --top_customers=3
+
+I have included books.list and sales.list files.
